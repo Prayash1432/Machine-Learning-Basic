@@ -1,1 +1,2 @@
-# Machine-Learning-Basic
+# Machine-Learning-Basic 
+Prayash Adhikari
